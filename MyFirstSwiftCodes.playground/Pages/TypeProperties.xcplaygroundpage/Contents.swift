@@ -7,7 +7,11 @@ class accounts {
     var name: String
     let acno: Int
     var balance: Double
-    var interestrate: Float = 2.5
+    class var interestrate: Float {
+    
+        return 2.0
+    
+    }
     
     
     init(personname: String, account: Int, currentbalance: Double ) {
@@ -16,15 +20,15 @@ class accounts {
         self.balance = currentbalance
     }
     
+    func returnvalue () -> String {
     
-    func Displayaccount(name: "Kim") -> String {
-    
-        return "account holder name is \(name), his acc no is \(acno), his balance is \(balance)"
-    
+        return "The account holder name is \(name)"
     
     }
 
 }
+
+
 
 
 //: [Next](@next)
