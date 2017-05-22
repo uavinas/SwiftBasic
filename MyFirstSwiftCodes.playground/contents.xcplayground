@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='String Example'/>
+        <page name='Const Example'/>
+        <page name='Convert'/>
+        <page name='If Else'/>
+        <page name='Switch'/>
+        <page name='TestRev'/>
+        <page name='ForLoop'/>
+        <page name='Functions'/>
+        <page name='Array'/>
+        <page name='While'/>
+        <page name='Dictionaries'/>
+        <page name='Tuples'/>
+        <page name='Optional'/>
+        <page name='Enum'/>
+        <page name='Closures'/>
+        <page name='Classes'/>
+        <page name='Classes2Init'/>
+        <page name='MethodOverriding'/>
+        <page name='Inheritence'/>
+        <page name='Test'/>
+        <page name='Test code 1'/>
+        <page name='ClosureNew'/>
+        <page name='Class 2'/>
+        <page name='Test run'/>
+        <page name='Computed Properties'/>
+        <page name='TypeProperties'/>
+        <page name='TypeLevelVAriables'/>
+    </pages>
+</playground>
